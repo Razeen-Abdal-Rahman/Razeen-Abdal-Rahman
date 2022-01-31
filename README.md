@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Razeen
 #### I am a Software Developer
-![I am a Software Developer]<!--- add banner (link) --->
+
+<!--- add banner (link) --->
 
 Skills: Java / Python / JS / HTML / CSS / C / C++
 
