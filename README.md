@@ -9,7 +9,7 @@ Skills: Java / Python / JS / HTML / CSS / C / C++
 - 🌱 I’m currently learning Blockchain (Solidity) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/razeen-abdal-rahman-86142ab9/)  
+<!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman) ---> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/razeen-abdal-rahman-86142ab9/)  
 
 <!---[![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Abdal-Rahman)](https://github.com/ryo-ma/github-profile-trophy)
 
