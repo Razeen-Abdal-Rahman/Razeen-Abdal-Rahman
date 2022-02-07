@@ -5,7 +5,7 @@
 
 Skills: Java / Python / JS / HTML / CSS / C / C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a calculator mobile app (Flutter). 
 - 🌱 I’m currently learning Blockchain (Solidity) 
 
 
