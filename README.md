@@ -5,7 +5,7 @@
 
 Skills: Java / Python / JS / HTML / CSS / C / C++
 
-- 🔭 I’m currently working on voting decentralised application (DApp) 
+- 🔭 I’m currently working on package tracking decentralised application (DApp) 
 - 🌱 I’m currently learning Blockchain (Solidity) 
 
 
