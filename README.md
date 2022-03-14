@@ -6,7 +6,7 @@
 Skills: Java / Python / JS / HTML / CSS / C / C++
 
 - 🔭 I’m currently working on creating a demo spring boot application
-- 🌱 I’m currently learning Spring Boot 
+- 🌱 I’m currently learning Spring Boot (how to develop on mac)
 
 
 <!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman) --->
