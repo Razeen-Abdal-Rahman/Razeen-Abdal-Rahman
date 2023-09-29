@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Razeen
-#### I am a Software Developer
+#### I am a Platfrom Engineer
 
 <!--- add banner (link) --->
 
-Skills: Java / Python / JS / HTML / CSS / C / C++
+Skills: AWS / Terraform / GCP / Azure / Python / Bash / Github Actions / Jenkins / Docker / Kubernetes
 
-- 🔭 I’m currently working on creating a demo spring boot application
-- 🌱 I’m currently learning React (how to develop on mac)
+🔭 I’m currently working on displaying the skills I've learnt from industry experiance on projects that can be showcased
 
 
 <!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman) --->
