@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Razeen
-#### I am a Platfrom Engineer
+#### I am a DevOps Engineer
 
 <!--- add banner (link) --->
 
