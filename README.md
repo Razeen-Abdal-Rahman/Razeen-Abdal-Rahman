@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on displaying the skills I've learnt from industry experiance on projects that can be showcased
 
-💻 Tech Stack:  
+### 💻 Tech Stack:  
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900&logoSize=auto&labelColor=black)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=844FBA&logoSize=auto&labelColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=2496ED&logoSize=auto&labelColor=black)
@@ -13,13 +13,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&logoSize=auto&labelColor=black)
 
 
-🌐 Socials:
+### 🌐 Socials:
 <!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman) --->
 <!--- add medium --->
 <a href="https://www.linkedin.com/in/razeen-abdal-rahman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@RazeenAbdalRahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=black"></a>
 <!-- ![LinkedIn](https://img.shields.io/badge/%40RazeenAbdalRahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=black&link=https/www.linkedin.com/in/razeen-abdal-rahman/) --->
 
-📊 GitHub Stats:
+### 📊 GitHub Stats:
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=Razeen-Abdal-Rahman)](https://github.com/ryo-ma/github-profile-trophy&show_icons=true&theme=radical) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen-Abdal-Rahman&show_icons=true&count_private=true&theme=transparent)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Razeen-Abdal-Rahman&show_icons=true&count_private=true&show_icons=true&theme=transparent)  
