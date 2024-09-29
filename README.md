@@ -15,8 +15,7 @@
 
 ### 🌐 Socials:
 <!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Razeen-Abdal-Rahman) --->
-![Medium](https://img.shields.io/badge/%40RazeenAbdalRahman-black?style=for-the-badge&logo=Medium&logoSize=auto&link=https://medium.com/razeen.abdal-rahman)
-
+<a href="https://medium.com/@razeen.abdal-rahman" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/@RazeenAbdalRahman-black?style=for-the-badge&logo=Medium&logoSize=auto"></a>
 <a href="https://www.linkedin.com/in/razeen-abdal-rahman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@RazeenAbdalRahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=black"></a>
 <!-- ![LinkedIn](https://img.shields.io/badge/%40RazeenAbdalRahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto&labelColor=black&link=https/www.linkedin.com/in/razeen-abdal-rahman/) --->
 
